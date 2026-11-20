@@ -27,10 +27,10 @@ These are tracked and installed automatically on first run.
 
 | Plugin | Description |
 |---|---|
-| [auto-raid](https://github.com/eclipxia/auto-raid) | Drinks an Ominous Bottle when the raid victory boss bar appears |
-| [ShulkerViewer](https://github.com/eclipxia/ShulkerViewer) | Shows the contents of shulker boxes in a panel beside container screens |
-| [Celestial Theme](https://github.com/eclipxia/CelestialTheme1.21.11RH) | ClickGUI theme styled after the Celestial client |
-| [CustomCapes](https://github.com/eclipxia/CustomCapes) | Client-side custom capes (needs a full restart, it uses mixins) |
+| [auto-raid](https://github.com/eclipxia-rh-plugins/auto-raid) | Drinks an Ominous Bottle when the raid victory boss bar appears |
+| [ShulkerViewer](https://github.com/eclipxia-rh-plugins/ShulkerViewer) | Shows the contents of shulker boxes in a panel beside container screens |
+| [Celestial Theme](https://github.com/eclipxia-rh-plugins/CelestialTheme1.21.11RH) | ClickGUI theme styled after the Celestial client |
+| [CustomCapes](https://github.com/eclipxia-rh-plugins/CustomCapes) | Client-side custom capes (needs a full restart, it uses mixins) |
 
 ## Supported versions
 
